@@ -7,3 +7,7 @@ https://mandlemandle.com/article/050916
 
 [ 해당 작품 ]
 https://mandlemandle.com/project/7f7766/game
+
+![타이틀](https://github.com/user-attachments/assets/040d19a3-b81e-4a96-bf72-355627e95d37)
+
+![게임화면](https://github.com/user-attachments/assets/61c2da69-41ce-45b4-90b3-443dbd0c258a)
