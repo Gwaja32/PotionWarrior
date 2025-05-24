@@ -1,0 +1,54 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="Cauldron">
+			<method name="Mix"/>
+			<method name="SetFeather"/>
+			<method name="SetFeather"/>
+			<method name="SetHeart"/>
+			<method name="SetHeart"/>
+			<method name="SetLife"/>
+			<method name="SetLife"/>
+			<method name="SetLife"/>
+			<method name="SetSalt"/>
+			<method name="SetSalt"/>
+			<method name="SetWater"/>
+		</type>
+		<type fullname="GameManager">
+			<method name="AutoToggle"/>
+			<method name="MainMenuScene"/>
+			<method name="MainMenuScene"/>
+			<method name="Select1"/>
+			<method name="Select2"/>
+			<method name="SetBossStage"/>
+		</type>
+		<type fullname="MainMenu">
+			<method name="GameScene"/>
+		</type>
+	</assembly>
+	<assembly fullname="Unity.RenderPipelines.Core.Runtime" ignoreIfMissing="1">
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerButton">
+			<method name="OnAction"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField">
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerPanel">
+			<method name="OnScrollbarClicked"/>
+			<method name="OnScrollbarClicked"/>
+			<method name="ResetDebugManager"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerUIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+	</assembly>
+</linker>

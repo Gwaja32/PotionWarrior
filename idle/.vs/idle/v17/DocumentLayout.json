@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity\\Projects\\idle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\idle\\assets\\script\\cauldron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cauldron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|c:\\unity\\projects\\idle\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\idle\\assets\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\idle\\assets\\script\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\idle\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\idle\\assets\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\idle\\assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\idle\\assets\\script\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\idle\\assets\\script\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\idle\\assets\\script\\viewstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\viewstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\idle\\assets\\script\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\idle\\assets\\script\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\idle\\assets\\script\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\idle\\assets\\script\\mixbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A953685-0CD4-88AB-B92C-6D463486F99F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mixbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\idle\\Assets\\Script\\Size.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Size.cs",
+              "ToolTip": "C:\\Unity\\Projects\\idle\\Assets\\Script\\Size.cs",
+              "RelativeToolTip": "Assets\\Script\\Size.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:41:09.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\idle\\Assets\\Script\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MainMenu.cs",
+              "ToolTip": "C:\\Unity\\Projects\\idle\\Assets\\Script\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:17:24.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewStatus.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\idle\\Assets\\Script\\ViewStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ViewStatus.cs",
+              "ToolTip": "C:\\Unity\\Projects\\idle\\Assets\\Script\\ViewStatus.cs",
+              "RelativeToolTip": "Assets\\Script\\ViewStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:18:49.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MixButton.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\idle\\Assets\\Script\\MixButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MixButton.cs",
+              "ToolTip": "C:\\Unity\\Projects\\idle\\Assets\\Script\\MixButton.cs",
+              "RelativeToolTip": "Assets\\Script\\MixButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvx0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:00:26.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cauldron.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\idle\\Assets\\Script\\Cauldron.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Cauldron.cs",
+              "ToolTip": "C:\\Unity\\Projects\\idle\\Assets\\Script\\Cauldron.cs",
+              "RelativeToolTip": "Assets\\Script\\Cauldron.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAIwIUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:07:54.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\idle\\Assets\\Script\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AudioManager.cs",
+              "ToolTip": "C:\\Unity\\Projects\\idle\\Assets\\Script\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Script\\AudioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:54:16.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\idle\\Assets\\Script\\State.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\State.cs",
+              "ToolTip": "C:\\Unity\\Projects\\idle\\Assets\\Script\\State.cs",
+              "RelativeToolTip": "Assets\\Script\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:18:33.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Background.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\idle\\Assets\\Script\\Background.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Background.cs",
+              "ToolTip": "C:\\Unity\\Projects\\idle\\Assets\\Script\\Background.cs",
+              "RelativeToolTip": "Assets\\Script\\Background.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:58:18.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Slot.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\idle\\Assets\\Script\\Slot.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Slot.cs",
+              "ToolTip": "C:\\Unity\\Projects\\idle\\Assets\\Script\\Slot.cs",
+              "RelativeToolTip": "Assets\\Script\\Slot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:55:06.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\idle\\Assets\\Script\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Inventory.cs",
+              "ToolTip": "C:\\Unity\\Projects\\idle\\Assets\\Script\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Script\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:50:17.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\idle\\Assets\\Script\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item.cs",
+              "ToolTip": "C:\\Unity\\Projects\\idle\\Assets\\Script\\Item.cs",
+              "RelativeToolTip": "Assets\\Script\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:15:41.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\idle\\Assets\\Script\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy.cs",
+              "ToolTip": "C:\\Unity\\Projects\\idle\\Assets\\Script\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:32:11.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\idle\\Assets\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
+              "ToolTip": "C:\\Unity\\Projects\\idle\\Assets\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:27:04.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\idle\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "C:\\Unity\\Projects\\idle\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAswIQBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T22:49:00.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
